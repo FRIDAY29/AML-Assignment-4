@@ -28,15 +28,4 @@ The app accepts the following input features:
 
 The app uses a trained machine learning model stored in `model.jolib`. The model was trained on a dataset of breast cancer samples and can make predictions on new data.
 
-## Contributing
 
-Contributions are welcome! If you'd like to improve the app or add new features, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Acknowledgments
-
-* [Your Name] for creating the app
-* [Dataset Source] for providing the breast cancer dataset
