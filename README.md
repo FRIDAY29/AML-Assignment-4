@@ -10,7 +10,7 @@ This app uses a trained machine learning model to predict the likelihood of brea
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/breast-cancer-prediction-app.git`
+1. Clone the repository: `git clone `
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 4. Open a web browser and navigate to `http://localhost:8501`
@@ -26,6 +26,6 @@ The app accepts the following input features:
 
 ## Model
 
-The app uses a trained machine learning model stored in `model.jolib`. The model was trained on a dataset of breast cancer samples and can make predictions on new data.
+The app uses a trained machine learning model stored in `breast_cancer_model.jolib`. The model was trained on a dataset of breast cancer samples and can make predictions on new data.
 
 
