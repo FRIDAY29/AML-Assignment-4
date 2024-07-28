@@ -10,7 +10,7 @@ This app uses a trained machine learning model to predict the likelihood of brea
 
 ## Usage
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/FRIDAY29/AML-Assignment-4.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 4. Open a web browser and navigate to `http://localhost:8501`
